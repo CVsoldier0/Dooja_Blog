@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,c as t}from"./app.b14b24ff.js";const c={};function r(n,_){return o(),t("div")}const a=e(c,[["render",r],["__file","shopping.html.vue"]]);export{a as default};

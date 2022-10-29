@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://newzone.top/Dooja_Blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Flux</title>
+    <link>https://newzone.top/Dooja_Blog/</link>
+    <description>Dooja's individual field</description>
+    <language>zh-CN</language>
+    <pubDate>Sat, 29 Oct 2022 19:40:45 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2022 19:40:45 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>随笔</category>
+    <item>
+      <title>第一篇博客</title>
+      <link>https://newzone.top/Dooja_Blog/_posts/2022-10-30-first_blog.html</link>
+      <guid>https://newzone.top/Dooja_Blog/_posts/2022-10-30-first_blog.html</guid>
+      <source url="https://newzone.top/Dooja_Blog/rss.xml">第一篇博客</source>
+      <category>随笔</category>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>TODO</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
